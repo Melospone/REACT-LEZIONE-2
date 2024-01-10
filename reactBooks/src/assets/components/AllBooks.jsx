@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Button, Card,  Container } from "react-bootstrap";
+import { Button, Card} from "react-bootstrap";
 import ButtonCategory from "./Button";
 
 const LibriCard = () => {
